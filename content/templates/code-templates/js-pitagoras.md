@@ -1,4 +1,4 @@
-# Pitagoras
+# js-pitagoras
 
 ```jsx
 const a = Math.pow(5, 2)
