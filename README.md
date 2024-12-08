@@ -38,7 +38,7 @@
   * [jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com/)
 * [Mermaid live editor](https://mermaid.live/edit)
 * [pixabay.com](https://pixabay.com/)
-* Base64 | [decode](https://www.base64decode.org/) | [encode](https://www.base64encode.org/)
+* [Base64 DEcode](https://www.base64decode.org/) [Base64 ENcode](https://www.base64encode.org/)
 * [uuid-gen](https://www.uuidgenerator.net/api/version4/2)
 * [jsFormatter](https://beautifier.io/)
 * frontend-stuff
@@ -46,7 +46,7 @@
   * [fontawesome.com/](https://fontawesome.com/)
   * [http://colormind.io/](http://colormind.io/)
   * [fonts.google.com](https://fonts.google.com/)
-* [draw.io | app.diagrams.net](https://app.diagrams.net/)
+* [draw.io_aka_app.diagrams.net](https://app.diagrams.net/)
 * [URL Opener](https://www.10bestseo.com/url-opener/)
 * [Text to ASCII Art Generator](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
 * random-users-data
