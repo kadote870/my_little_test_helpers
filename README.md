@@ -1,4 +1,4 @@
-# my_little_test_helpers
+# [my_little_test_helpers](https://kadote870.github.io/my_little_test_helpers/)
 
 ## [Java](content/java.md)
 
@@ -6,12 +6,12 @@
 * [Pitagoras](content/templates/code-templates/pitagoras.md)
 
 ## regular-templates
-* [Jira Bug description template](content/templates/regular-templates/bug-desc.md)
-* [EICAR - Anti Malware test file](content/templates/regular-templates/eicar.md)
-* [Git prepare branch with release](content/templates/code-templates/pitagoras.md)
-* [Jira test result template](content/templates/regular-templates/test-comment.md)
+* [bug-desc](content/templates/regular-templates/bug-desc.md)
+* [eicar](content/templates/regular-templates/eicar.md)
+* [git-prepare-branch-with-release](content/templates/regular-templates/git-prepare-branch-with-release.md)
+* [test-comment](content/templates/regular-templates/test-comment.md)
 
-# text-placeholders
+## text-placeholders
 * [chars-1-265](content/templates/text-placeholders/chars-1-265.md)
 * [js-scripts](content/templates/text-placeholders/js-scripts.md)
 * [lorem-ipsum-full](content/templates/text-placeholders/lorem-ipsum-full.md)
