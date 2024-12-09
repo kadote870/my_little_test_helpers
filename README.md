@@ -76,6 +76,7 @@
 
 ## movie
 * [Frankenstream - Monstrum zwane streamingiem](content/movie/frankenstream.md)
+* [Zero Days (Stuxnet)](https://www.youtube.com/watch?v=uNQlTr3_CSE)
 
 ---
 **COPYLEFT, ALL RIGHTS REVERSED – I stole this code, you can steal it too!**
