@@ -30,37 +30,52 @@
 * [Kody HTTP — http.cat](https://http.cat/)
 
 ## hard-wordk
-* [HTML URL encoding](https://www.w3schools.com/html/html_urlencode.asp)
 * json
-  * [https://json-generator.com/](https://json-generator.com/)
-  * [https://www.jsongenerator.io/](https://www.jsongenerator.io/)
-  * [jsonblob.com](https://jsonblob.com/)
-  * [jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com/)
+    * [https://json-generator.com/](https://json-generator.com/)
+    * [https://www.jsongenerator.io/](https://www.jsongenerator.io/)
+    * [jsonblob.com](https://jsonblob.com/)
+    * [jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com/)
 * [Mermaid live editor](https://mermaid.live/edit)
 * [pixabay.com](https://pixabay.com/)
 * [Base64 DEcode](https://www.base64decode.org/) [Base64 ENcode](https://www.base64encode.org/)
 * [uuid-gen](https://www.uuidgenerator.net/api/version4/2)
 * [jsFormatter](https://beautifier.io/)
 * frontend-stuff
-  * [tabler.io/icons](https://tabler.io/icons)
-  * [fontawesome.com/](https://fontawesome.com/)
-  * [http://colormind.io/](http://colormind.io/)
-  * [fonts.google.com](https://fonts.google.com/)
+    * [tabler.io/icons](https://tabler.io/icons)
+    * [fontawesome.com/](https://fontawesome.com/)
+    * [http://colormind.io/](http://colormind.io/)
+    * [fonts.google.com](https://fonts.google.com/)
 * [draw.io_aka_app.diagrams.net](https://app.diagrams.net/)
 * [URL Opener](https://www.10bestseo.com/url-opener/)
+* [HTML URL encoding](https://www.w3schools.com/html/html_urlencode.asp)
 * [Text to ASCII Art Generator](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
 * random-users-data
-  * [thispersondoesnotexist.com](https://thispersondoesnotexist.com/)
-  * [fakenamegenerator.com](https://www.fakenamegenerator.com/)
+    * [thispersondoesnotexist.com](https://thispersondoesnotexist.com/)
+    * [fakenamegenerator.com](https://www.fakenamegenerator.com/)
+* [the-internet.herokuapp.com/](https://the-internet.herokuapp.com/)
+* [www.dataplicity.com](https://www.dataplicity.com/profile/signin/)
 
 ## and-sacrafice
 * [https://www.virustotal.com](https://www.virustotal.com/gui/home/upload)
 * [Generator pytań dowolnego egzaminu ISTQB](https://testerzy.pl/baza-wiedzy/artykuly/generator-pytan-dowolnego-egzaminu-istqb)
-* [fakeupdate.net/](https://fakeupdate.net/)
+* [fakeupdate.net](https://fakeupdate.net/)
 * [( ͡° ͜ʖ ͡°)](https://piliapp.com/emoticon/lenny-face/)
 * [windy](https://www.windy.com/pl/-Radar-pogodowy-radar?radar,50.155,22.206,9)
 * [flightradar24](https://www.flightradar24.com/49.90,21.34/9)
 * [Google Search Operators](https://moz.com/learn/seo/search-operators)
+
+## article
+* [Jak FBI namierzyło panią, która podpaliła dwa policyjne radiowozy](https://zaufanatrzeciastrona.pl/post/jak-fbi-namierzylo-pania-ktora-podpalila-dwa-policyjne-radiowozy/)
+* [Księgowa przelała ponad 1,5 miliona złotych oszustom. „Pieniądze są zagrożone atakiem hackerskim” – ostrzegali policjanci. Policjanci fałszywi.](https://sekurak.pl/ksiegowa-przelala-ponad-15-miliona-zlotych-oszustom-pieniadze-sa-zagrozone-atakiem-hackerskim-ostrzegali-policjanci-policjanci-falszywi/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Sekurak+%28Sekurak%29)
+* [Co wie o Tobie Twój dostawca internetu? I jak sprawić, aby nie widział tego, co robisz na komputerze?](https://niebezpiecznik.pl/post/co-wie-o-tobie-twoj-dostawca-internetu-i-jak-sprawic-aby-nie-widzial-tego-co-robisz-na-komputerze/)
+
+## soft
+* [puredata](https://puredata.info/downloads)
+* [zap](https://www.zaproxy.org/download/)
+* [owasp.org](https://owasp.org/); [OWASP Broken Web Applications Project](https://sourceforge.net/projects/owaspbwa/)
+
+## movie
+* [Frankenstream - Monstrum zwane streamingiem](content/movie/frankenstream.md)
 
 ---
 **COPYLEFT, ALL RIGHTS REVERSED – I stole this code, you can steal it too!**
