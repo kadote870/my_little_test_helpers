@@ -64,6 +64,7 @@
 * [flightradar24](https://www.flightradar24.com/49.90,21.34/9)
 * [Google Search Operators](https://moz.com/learn/seo/search-operators)
 * [APOLLO IN REAL TIME. A real-time journey through the Apollo missions.](https://apolloinrealtime.org/)
+* [CERN: http://info.cern.ch - home of the first website](https://info.cern.ch/)
 
 ## soft
 * [puredata](https://puredata.info/downloads)
@@ -82,6 +83,8 @@
 ## movie
 * [Frankenstream - Monstrum zwane streamingiem](content/movie/frankenstream.md)
 * [Zero Days (Stuxnet)](https://www.youtube.com/watch?v=uNQlTr3_CSE)
+
+## [other](content/other.md)
 
 ---
 **COPYLEFT, ALL RIGHTS REVERSED – I stole this code, you can steal it too!**
