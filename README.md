@@ -31,8 +31,8 @@
 
 ## hard-wordk
 * json
-    * [https://json-generator.com/](https://json-generator.com/)
-    * [https://www.jsongenerator.io/](https://www.jsongenerator.io/)
+    * [json-generator.com](https://json-generator.com/)
+    * [jsongenerator.io](https://www.jsongenerator.io/)
     * [jsonblob.com](https://jsonblob.com/)
     * [jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com/)
 * [Mermaid live editor](https://mermaid.live/edit)
@@ -43,7 +43,7 @@
 * frontend-stuff
     * [tabler.io/icons](https://tabler.io/icons)
     * [fontawesome.com/](https://fontawesome.com/)
-    * [http://colormind.io/](http://colormind.io/)
+    * [colormind.io](http://colormind.io/)
     * [fonts.google.com](https://fonts.google.com/)
 * [draw.io_aka_app.diagrams.net](https://app.diagrams.net/)
 * [URL Opener](https://www.10bestseo.com/url-opener/)
@@ -52,17 +52,18 @@
 * random-users-data
     * [thispersondoesnotexist.com](https://thispersondoesnotexist.com/)
     * [fakenamegenerator.com](https://www.fakenamegenerator.com/)
-* [the-internet.herokuapp.com/](https://the-internet.herokuapp.com/)
-* [www.dataplicity.com](https://www.dataplicity.com/profile/signin/)
+* [the-internet.herokuapp.com](https://the-internet.herokuapp.com/)
+* [dataplicity.com](https://www.dataplicity.com/profile/signin/)
 
 ## and-sacrafice
-* [https://www.virustotal.com](https://www.virustotal.com/gui/home/upload)
+* [virustotal.com](https://www.virustotal.com/gui/home/upload)
 * [Generator pytań dowolnego egzaminu ISTQB](https://testerzy.pl/baza-wiedzy/artykuly/generator-pytan-dowolnego-egzaminu-istqb)
 * [fakeupdate.net](https://fakeupdate.net/)
 * [( ͡° ͜ʖ ͡°)](https://piliapp.com/emoticon/lenny-face/)
 * [windy](https://www.windy.com/pl/-Radar-pogodowy-radar?radar,50.155,22.206,9)
 * [flightradar24](https://www.flightradar24.com/49.90,21.34/9)
 * [Google Search Operators](https://moz.com/learn/seo/search-operators)
+* [APOLLO IN REAL TIME. A real-time journey through the Apollo missions.](https://apolloinrealtime.org/)
 
 ## soft
 * [puredata](https://puredata.info/downloads)
@@ -73,6 +74,10 @@
 * [Jak FBI namierzyło panią, która podpaliła dwa policyjne radiowozy](https://zaufanatrzeciastrona.pl/post/jak-fbi-namierzylo-pania-ktora-podpalila-dwa-policyjne-radiowozy/)
 * [Księgowa przelała ponad 1,5 miliona złotych oszustom. „Pieniądze są zagrożone atakiem hackerskim” – ostrzegali policjanci. Policjanci fałszywi.](https://sekurak.pl/ksiegowa-przelala-ponad-15-miliona-zlotych-oszustom-pieniadze-sa-zagrozone-atakiem-hackerskim-ostrzegali-policjanci-policjanci-falszywi/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Sekurak+%28Sekurak%29)
 * [Co wie o Tobie Twój dostawca internetu? I jak sprawić, aby nie widział tego, co robisz na komputerze?](https://niebezpiecznik.pl/post/co-wie-o-tobie-twoj-dostawca-internetu-i-jak-sprawic-aby-nie-widzial-tego-co-robisz-na-komputerze/)
+* Will we run out of data? Limits of LLM scaling based on human-generated data 
+  * [arxiv.org/pdf](https://arxiv.org/pdf/2211.04325)
+  * [epoch.ai/blog](https://epoch.ai/blog/will-we-run-out-of-data-limits-of-llm-scaling-based-on-human-generated-data)
+* [Disney zmienia zdanie. Mężczyzna może pozwać firmę za śmierć żony](https://angora24.pl/swiat/disney-zmienia-zdanie-mezczyzna-moze-pozwac-firme-za-smierc-zony)
 
 ## movie
 * [Frankenstream - Monstrum zwane streamingiem](content/movie/frankenstream.md)
