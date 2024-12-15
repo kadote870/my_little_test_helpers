@@ -70,6 +70,13 @@
 * [puredata](https://puredata.info/downloads)
 * [zap](https://www.zaproxy.org/download/)
 * [owasp.org](https://owasp.org/); [OWASP Broken Web Applications Project](https://sourceforge.net/projects/owaspbwa/)
+* [jMeter](https://jmeter.apache.org/)
+* [Bruno](https://www.usebruno.com/)
+* [Hoppscotch](https://hoppscotch.io/)
+* [Blisk Browser](https://blisk.io/)
+* [Replit](https://replit.com/)
+* [Greenshot](https://getgreenshot.org/)
+* [ShareX](https://getsharex.com/)
 
 ## article
 * [Jak FBI namierzyło panią, która podpaliła dwa policyjne radiowozy](https://zaufanatrzeciastrona.pl/post/jak-fbi-namierzylo-pania-ktora-podpalila-dwa-policyjne-radiowozy/)
