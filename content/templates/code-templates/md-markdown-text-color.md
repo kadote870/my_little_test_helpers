@@ -1,4 +1,4 @@
-# md-markdown-text-colot
+# md-markdown-text-color
 
 ```<span style="color:red"> *some emphasized markdown text* </span>```
 

@@ -2,21 +2,26 @@
 
 ## [Java](content/java.md)
 
+## [Podstawy Testowania REST API](https://kadote870.github.io/podstawytestowaniarestapi/)
+
 ## code-templates
+
 * [js-check-string-length](content/templates/code-templates/js-check-string-length.md)
 * [js-exploding-dice](content/templates/code-templates/js-exploding-dice.md)
 * [js-function-bag](content/templates/code-templates/js-function-bag.md)
 * [js-pitagoras](content/templates/code-templates/js-pitagoras.md)
 * [js-random-lorem](content/templates/code-templates/js-random-lorem.md)
-* [md-markdown-text-colot](content/templates/code-templates/md-markdown-text-colot.md)
+* [md-markdown-text-color](content/templates/code-templates/md-markdown-text-color.md)
 
 ## regular-templates
+
 * [bug-desc](content/templates/regular-templates/bug-desc.md)
 * [eicar](content/templates/regular-templates/eicar.md)
 * [git-prepare-branch-with-release](content/templates/regular-templates/git-prepare-branch-with-release.md)
 * [test-comment](content/templates/regular-templates/test-comment.md)
 
 ## text-placeholders
+
 * [chars-1-265](content/templates/text-placeholders/chars-1-265.md)
 * [js-scripts](content/templates/text-placeholders/js-scripts.md)
 * [lorem-ipsum-full](content/templates/text-placeholders/lorem-ipsum-full.md)
@@ -25,11 +30,13 @@
 * [special-chars](content/templates/text-placeholders/special-chars.md)
 
 ## Kody HTTP
+
 * [Kody HTTP — w3schools.com](https://www.w3schools.com/tags/ref_httpmessages.asp)
 * [Kody HTTP — developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
 * [Kody HTTP — http.cat](https://http.cat/)
 
-## hard-wordk
+## hard-work
+
 * json
     * [json-generator.com](https://json-generator.com/)
     * [jsongenerator.io](https://www.jsongenerator.io/)
@@ -56,6 +63,7 @@
 * [dataplicity.com](https://www.dataplicity.com/profile/signin/)
 
 ## and-sacrafice
+
 * [virustotal.com](https://www.virustotal.com/gui/home/upload)
 * [Generator pytań dowolnego egzaminu ISTQB](https://testerzy.pl/baza-wiedzy/artykuly/generator-pytan-dowolnego-egzaminu-istqb)
 * [fakeupdate.net](https://fakeupdate.net/)
@@ -66,28 +74,20 @@
 * [APOLLO IN REAL TIME. A real-time journey through the Apollo missions.](https://apolloinrealtime.org/)
 * [CERN: http://info.cern.ch - home of the first website](https://info.cern.ch/)
 
-## soft
-* [puredata](https://puredata.info/downloads)
-* [zap](https://www.zaproxy.org/download/)
-* [owasp.org](https://owasp.org/); [OWASP Broken Web Applications Project](https://sourceforge.net/projects/owaspbwa/)
-* [jMeter](https://jmeter.apache.org/)
-* [Bruno](https://www.usebruno.com/)
-* [Hoppscotch](https://hoppscotch.io/)
-* [Blisk Browser](https://blisk.io/)
-* [Replit](https://replit.com/)
-* [Greenshot](https://getgreenshot.org/)
-* [ShareX](https://getsharex.com/)
+## [soft](content/soft.md)
 
 ## article
+
 * [Jak FBI namierzyło panią, która podpaliła dwa policyjne radiowozy](https://zaufanatrzeciastrona.pl/post/jak-fbi-namierzylo-pania-ktora-podpalila-dwa-policyjne-radiowozy/)
 * [Księgowa przelała ponad 1,5 miliona złotych oszustom. „Pieniądze są zagrożone atakiem hackerskim” – ostrzegali policjanci. Policjanci fałszywi.](https://sekurak.pl/ksiegowa-przelala-ponad-15-miliona-zlotych-oszustom-pieniadze-sa-zagrozone-atakiem-hackerskim-ostrzegali-policjanci-policjanci-falszywi/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Sekurak+%28Sekurak%29)
 * [Co wie o Tobie Twój dostawca internetu? I jak sprawić, aby nie widział tego, co robisz na komputerze?](https://niebezpiecznik.pl/post/co-wie-o-tobie-twoj-dostawca-internetu-i-jak-sprawic-aby-nie-widzial-tego-co-robisz-na-komputerze/)
-* Will we run out of data? Limits of LLM scaling based on human-generated data 
-  * [arxiv.org/pdf](https://arxiv.org/pdf/2211.04325)
-  * [epoch.ai/blog](https://epoch.ai/blog/will-we-run-out-of-data-limits-of-llm-scaling-based-on-human-generated-data)
+* Will we run out of data? Limits of LLM scaling based on human-generated data
+    * [arxiv.org/pdf](https://arxiv.org/pdf/2211.04325)
+    * [epoch.ai/blog](https://epoch.ai/blog/will-we-run-out-of-data-limits-of-llm-scaling-based-on-human-generated-data)
 * [Disney zmienia zdanie. Mężczyzna może pozwać firmę za śmierć żony](https://angora24.pl/swiat/disney-zmienia-zdanie-mezczyzna-moze-pozwac-firme-za-smierc-zony)
 
 ## movie
+
 * [Frankenstream - Monstrum zwane streamingiem](content/movie/frankenstream.md)
 * [Zero Days (Stuxnet)](https://www.youtube.com/watch?v=uNQlTr3_CSE)
 
