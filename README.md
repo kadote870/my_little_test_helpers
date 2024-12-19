@@ -29,6 +29,9 @@
 * [pan-tadeusz](content/templates/text-placeholders/pan-tadeusz.md)
 * [special-chars](content/templates/text-placeholders/special-chars.md)
 
+## how to
+* [make a list of folder contents in a text file](content/how-to/folder-content.md)
+
 ## Kody HTTP
 
 * [Kody HTTP — w3schools.com](https://www.w3schools.com/tags/ref_httpmessages.asp)
