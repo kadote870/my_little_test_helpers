@@ -19,9 +19,13 @@
 * [notable-people](https://tjukanovt.github.io/notable-people)
 * [true size](https://www.thetruesize.com/)
 
+## śmieszki
+* [( ͡° ͜ʖ ͡°)](https://piliapp.com/emoticon/lenny-face/)
+* [h3 message](https://lehazyo.github.io/homm3-messages/)
+* [paski tvp](https://pasek-tvpis.pl/)
+
 # other other
 
 * [fakeupdate.net](https://fakeupdate.net/)
-* [( ͡° ͜ʖ ͡°)](https://piliapp.com/emoticon/lenny-face/)
 * [APOLLO IN REAL TIME. A real-time journey through the Apollo missions.](https://apolloinrealtime.org/)
 * [CERN: http://info.cern.ch - home of the first website](https://info.cern.ch/)
