@@ -54,6 +54,8 @@
 
 * [Slax](https://www.slax.org/)
 * [Raspberry Pi OS (Raspbian)](https://www.raspberrypi.com/software/)
+* [dataplicity.com](https://www.dataplicity.com/profile/signin/)
+* [proxmox](https://www.proxmox.com/en/)
 
 ## other
 

@@ -63,12 +63,11 @@
     * [thispersondoesnotexist.com](https://thispersondoesnotexist.com/)
     * [fakenamegenerator.com](https://www.fakenamegenerator.com/)
 * [the-internet.herokuapp.com](https://the-internet.herokuapp.com/)
-* [dataplicity.com](https://www.dataplicity.com/profile/signin/)
+* [Generator pytań dowolnego egzaminu ISTQB](https://testerzy.pl/baza-wiedzy/artykuly/generator-pytan-dowolnego-egzaminu-istqb)
 
 ## and-sacrafice
 
 * [virustotal.com](https://www.virustotal.com/gui/home/upload)
-* [Generator pytań dowolnego egzaminu ISTQB](https://testerzy.pl/baza-wiedzy/artykuly/generator-pytan-dowolnego-egzaminu-istqb)
 * [fakeupdate.net](https://fakeupdate.net/)
 * [( ͡° ͜ʖ ͡°)](https://piliapp.com/emoticon/lenny-face/)
 * [windy](https://www.windy.com/pl/-Radar-pogodowy-radar?radar,50.155,22.206,9)
@@ -88,6 +87,7 @@
     * [arxiv.org/pdf](https://arxiv.org/pdf/2211.04325)
     * [epoch.ai/blog](https://epoch.ai/blog/will-we-run-out-of-data-limits-of-llm-scaling-based-on-human-generated-data)
 * [Disney zmienia zdanie. Mężczyzna może pozwać firmę za śmierć żony](https://angora24.pl/swiat/disney-zmienia-zdanie-mezczyzna-moze-pozwac-firme-za-smierc-zony)
+* [Rynek IT od środka: Trendy na 2025 rok](content/articles/report-2025.md)
 
 ## movie
 
