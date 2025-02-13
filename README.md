@@ -22,11 +22,11 @@
 
 ## text-placeholders
 
-* [chars-1-265](content/templates/text-placeholders/chars-1-265.md)
+* [chars-1-265-1000](content/templates/text-placeholders/chars-1-265.md)
+* [pan-tadeusz](content/templates/text-placeholders/pan-tadeusz.md)
 * [js-scripts](content/templates/text-placeholders/js-scripts.md)
 * [lorem-ipsum-full](content/templates/text-placeholders/lorem-ipsum-full.md)
 * [lorem_ipsum_sentences](content/templates/text-placeholders/lorem_ipsum_sentences.md)
-* [pan-tadeusz](content/templates/text-placeholders/pan-tadeusz.md)
 * [special-chars](content/templates/text-placeholders/special-chars.md)
 
 ## how to
