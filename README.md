@@ -88,6 +88,7 @@
     * [epoch.ai/blog](https://epoch.ai/blog/will-we-run-out-of-data-limits-of-llm-scaling-based-on-human-generated-data)
 * [Disney zmienia zdanie. Mężczyzna może pozwać firmę za śmierć żony](https://angora24.pl/swiat/disney-zmienia-zdanie-mezczyzna-moze-pozwac-firme-za-smierc-zony)
 * [Rynek IT od środka: Trendy na 2025 rok](content/articles/report-2025.md)
+* [Lessons From Adobe’s Updated Terms of Use Controversy](https://www.trustlab.com/post/lessons-from-adobes-updated-terms-of-use-controversy) (dostęp:2025-02-15)
 
 ## movie
 
