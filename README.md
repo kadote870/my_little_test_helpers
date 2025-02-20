@@ -1,6 +1,6 @@
 # [my_little_test_helpers](https://kadote870.github.io/my_little_test_helpers/)
 
-## [Java](content/ja va.md)
+## [Java](content/java.md)
 
 ## Projekty
 * [Podstawy Testowania REST API](https://kadote870.github.io/podstawytestowaniarestapi/)
@@ -8,38 +8,39 @@
 
 ## code-templates
 
-* [js-check-string-length](content/templates/code-templates/js-check-string-length.md)
-* [js-exploding-dice](content/templates/code-templates/js-exploding-dice.md)
-* [js-function-bag](content/templates/code-templates/js-function-bag.md)
-* [js-pitagoras](content/templates/code-templates/js-pitagoras.md)
-* [js-random-lorem](content/templates/code-templates/js-random-lorem.md)
-* [md-markdown-text-color](content/templates/code-templates/md-markdown-text-color.md)
+* [js-check-string-length](content/code-templates/js-check-string-length.md)
+* [js-exploding-dice](content/code-templates/js-exploding-dice.md)
+* [js-function-bag](content/code-templates/js-function-bag.md)
+* [js-pitagoras](content/code-templates/js-pitagoras.md)
+* [js-random-lorem](content/code-templates/js-random-lorem.md)
+* [md-markdown-text-color](content/code-templates/md-markdown-text-color.md)
 
 ## regular-templates
 
-* [bug-desc](content/templates/regular-templates/bug-desc.md)
-* [eicar](content/templates/regular-templates/eicar.md)
-* [git-prepare-branch-with-release](content/templates/regular-templates/git-prepare-branch-with-release.md)
-* [test-comment](content/templates/regular-templates/test-comment.md)
+* [bug-desc](content/regular-templates/bug-desc.md)
+* [eicar](content/regular-templates/eicar.md)
+* [git-prepare-branch-with-release](content/regular-templates/git-prepare-branch-with-release.md)
+* [test-comment](content/regular-templates/test-comment.md)
 
 ## text-placeholders
 
-* [chars-1-265](content/templates/text-placeholders/chars-1-265.md)
-* [js-scripts](content/templates/text-placeholders/js-scripts.md)
-* [lorem-ipsum-full](content/templates/text-placeholders/lorem-ipsum-full.md)
-* [lorem_ipsum_sentences](content/templates/text-placeholders/lorem_ipsum_sentences.md)
-* [pan-tadeusz](content/templates/text-placeholders/pan-tadeusz.md)
-* [special-chars](content/templates/text-placeholders/special-chars.md)
+* [chars-1-265-1000](content/text-placeholders/chars-1-265.md)
+* [pan-tadeusz](content/text-placeholders/pan-tadeusz.md)
+* [js-scripts](content/text-placeholders/js-scripts.md)
+* [lorem-ipsum-full](content/text-placeholders/lorem-ipsum-full.md)
+* [lorem_ipsum_sentences](content/text-placeholders/lorem_ipsum_sentences.md)
+* [special-chars](content/text-placeholders/special-chars.md)
 
 ## how to
-
 * [make a list of folder contents in a text file](content/how-to/folder-content.md)
+* [intellij](content/how-to/intellij.md)
 
 ## Kody HTTP
 
 * [Kody HTTP — w3schools.com](https://www.w3schools.com/tags/ref_httpmessages.asp)
 * [Kody HTTP — developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
-* [Kody HTTP — http.cat](https://http.cat/)
+* [Kotki HTTP — http.cat](https://http.cat/)
+* [Pieski HTTP — http.dog](https://http.dog/)
 
 ## hard-work
 
@@ -94,6 +95,7 @@
 * ChatGPT zjada tyle energii, że OpenAI traci na zapytaniach nawet od tych klientów, którzy płacą za subskrypcję
     * [theinformation.com](https://www.theinformation.com/articles/openai-coo-says-chatgpt-passed-11-million-paying-subscribers)
     * [futurism.com](https://futurism.com/the-byte/openai-o3-cost-per-query)
+* [Lessons From Adobe’s Updated Terms of Use Controversy](https://www.trustlab.com/post/lessons-from-adobes-updated-terms-of-use-controversy) (dostęp:2025-02-15)
 
 ## movie
 
