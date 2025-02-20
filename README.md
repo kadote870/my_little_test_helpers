@@ -85,7 +85,6 @@
 ## article
 
 * [Jak FBI namierzyło panią, która podpaliła dwa policyjne radiowozy](https://zaufanatrzeciastrona.pl/post/jak-fbi-namierzylo-pania-ktora-podpalila-dwa-policyjne-radiowozy/) (dostęp:2025-02-15)
-* [Księgowa przelała ponad 1,5 miliona złotych oszustom. „Pieniądze są zagrożone atakiem hackerskim” – ostrzegali policjanci. Policjanci fałszywi.](https://sekurak.pl/ksiegowa-przelala-ponad-15-miliona-zlotych-oszustom-pieniadze-sa-zagrozone-atakiem-hackerskim-ostrzegali-policjanci-policjanci-falszywi/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Sekurak+%28Sekurak%29) (dostęp:2025-02-15)
 * [Księgowa przelała ponad 1,5 miliona złotych oszustom. „Pieniądze są zagrożone atakiem hackerskim” – ostrzegali policjanci. Policjanci fałszywi.](https://sekurak.pl/ksiegowa-przelala-ponad-15-miliona-zlotych-oszustom-pieniadze-sa-zagrozone-atakiem-hackerskim-ostrzegali-policjanci-policjanci-falszywi) (dostęp:2025-02-15)
 * [Co wie o Tobie Twój dostawca internetu? I jak sprawić, aby nie widział tego, co robisz na komputerze?](https://niebezpiecznik.pl/post/co-wie-o-tobie-twoj-dostawca-internetu-i-jak-sprawic-aby-nie-widzial-tego-co-robisz-na-komputerze/) (dostęp:2025-02-15)
 * Will we run out of data? Limits of LLM scaling based on human-generated data
