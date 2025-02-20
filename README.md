@@ -1,8 +1,10 @@
 # [my_little_test_helpers](https://kadote870.github.io/my_little_test_helpers/)
 
-## [Java](content/java.md)
+## [Java](content/ja va.md)
 
-## [Podstawy Testowania REST API](https://kadote870.github.io/podstawytestowaniarestapi/)
+## Projekty
+* [Podstawy Testowania REST API](https://kadote870.github.io/podstawytestowaniarestapi/)
+* [Akordy](https://kadote870.github.io/my_little_test_helpers/)
 
 ## code-templates
 
@@ -30,6 +32,7 @@
 * [special-chars](content/templates/text-placeholders/special-chars.md)
 
 ## how to
+
 * [make a list of folder contents in a text file](content/how-to/folder-content.md)
 
 ## Kody HTTP
@@ -88,6 +91,9 @@
     * [epoch.ai/blog](https://epoch.ai/blog/will-we-run-out-of-data-limits-of-llm-scaling-based-on-human-generated-data)
 * [Disney zmienia zdanie. Mężczyzna może pozwać firmę za śmierć żony](https://angora24.pl/swiat/disney-zmienia-zdanie-mezczyzna-moze-pozwac-firme-za-smierc-zony)
 * [Rynek IT od środka: Trendy na 2025 rok](content/articles/report-2025.md)
+* ChatGPT zjada tyle energii, że OpenAI traci na zapytaniach nawet od tych klientów, którzy płacą za subskrypcję
+    * [theinformation.com](https://www.theinformation.com/articles/openai-coo-says-chatgpt-passed-11-million-paying-subscribers)
+    * [futurism.com](https://futurism.com/the-byte/openai-o3-cost-per-query)
 
 ## movie
 
