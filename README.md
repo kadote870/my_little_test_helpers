@@ -84,17 +84,18 @@
 
 ## article
 
-* [Jak FBI namierzyło panią, która podpaliła dwa policyjne radiowozy](https://zaufanatrzeciastrona.pl/post/jak-fbi-namierzylo-pania-ktora-podpalila-dwa-policyjne-radiowozy/)
-* [Księgowa przelała ponad 1,5 miliona złotych oszustom. „Pieniądze są zagrożone atakiem hackerskim” – ostrzegali policjanci. Policjanci fałszywi.](https://sekurak.pl/ksiegowa-przelala-ponad-15-miliona-zlotych-oszustom-pieniadze-sa-zagrozone-atakiem-hackerskim-ostrzegali-policjanci-policjanci-falszywi/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Sekurak+%28Sekurak%29)
-* [Co wie o Tobie Twój dostawca internetu? I jak sprawić, aby nie widział tego, co robisz na komputerze?](https://niebezpiecznik.pl/post/co-wie-o-tobie-twoj-dostawca-internetu-i-jak-sprawic-aby-nie-widzial-tego-co-robisz-na-komputerze/)
+* [Jak FBI namierzyło panią, która podpaliła dwa policyjne radiowozy](https://zaufanatrzeciastrona.pl/post/jak-fbi-namierzylo-pania-ktora-podpalila-dwa-policyjne-radiowozy/) (dostęp:2025-02-15)
+* [Księgowa przelała ponad 1,5 miliona złotych oszustom. „Pieniądze są zagrożone atakiem hackerskim” – ostrzegali policjanci. Policjanci fałszywi.](https://sekurak.pl/ksiegowa-przelala-ponad-15-miliona-zlotych-oszustom-pieniadze-sa-zagrozone-atakiem-hackerskim-ostrzegali-policjanci-policjanci-falszywi/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Sekurak+%28Sekurak%29) (dostęp:2025-02-15)
+* [Księgowa przelała ponad 1,5 miliona złotych oszustom. „Pieniądze są zagrożone atakiem hackerskim” – ostrzegali policjanci. Policjanci fałszywi.](https://sekurak.pl/ksiegowa-przelala-ponad-15-miliona-zlotych-oszustom-pieniadze-sa-zagrozone-atakiem-hackerskim-ostrzegali-policjanci-policjanci-falszywi) (dostęp:2025-02-15)
+* [Co wie o Tobie Twój dostawca internetu? I jak sprawić, aby nie widział tego, co robisz na komputerze?](https://niebezpiecznik.pl/post/co-wie-o-tobie-twoj-dostawca-internetu-i-jak-sprawic-aby-nie-widzial-tego-co-robisz-na-komputerze/) (dostęp:2025-02-15)
 * Will we run out of data? Limits of LLM scaling based on human-generated data
-    * [arxiv.org/pdf](https://arxiv.org/pdf/2211.04325)
-    * [epoch.ai/blog](https://epoch.ai/blog/will-we-run-out-of-data-limits-of-llm-scaling-based-on-human-generated-data)
-* [Disney zmienia zdanie. Mężczyzna może pozwać firmę za śmierć żony](https://angora24.pl/swiat/disney-zmienia-zdanie-mezczyzna-moze-pozwac-firme-za-smierc-zony)
+    * [arxiv.org/pdf](https://arxiv.org/pdf/2211.04325) (dostęp:2025-02-15)
+    * [epoch.ai/blog](https://epoch.ai/blog/will-we-run-out-of-data-limits-of-llm-scaling-based-on-human-generated-data) (dostęp:2025-02-15)
+* [Disney zmienia zdanie. Mężczyzna może pozwać firmę za śmierć żony](https://angora24.pl/swiat/disney-zmienia-zdanie-mezczyzna-moze-pozwac-firme-za-smierc-zony) (dostęp:2025-02-15)
 * [Rynek IT od środka: Trendy na 2025 rok](content/articles/report-2025.md)
 * ChatGPT zjada tyle energii, że OpenAI traci na zapytaniach nawet od tych klientów, którzy płacą za subskrypcję
-    * [theinformation.com](https://www.theinformation.com/articles/openai-coo-says-chatgpt-passed-11-million-paying-subscribers)
-    * [futurism.com](https://futurism.com/the-byte/openai-o3-cost-per-query)
+    * [theinformation.com](https://www.theinformation.com/articles/openai-coo-says-chatgpt-passed-11-million-paying-subscribers) (dostęp:2025-02-15)
+    * [futurism.com](https://futurism.com/the-byte/openai-o3-cost-per-query) (dostęp:2025-02-15)
 * [Lessons From Adobe’s Updated Terms of Use Controversy](https://www.trustlab.com/post/lessons-from-adobes-updated-terms-of-use-controversy) (dostęp:2025-02-15)
 
 ## movie
