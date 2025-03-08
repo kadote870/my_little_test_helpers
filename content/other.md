@@ -14,6 +14,8 @@
 * [OpenTTD](https://www.openttd.org/)
 * [Wesnoth](https://www.wesnoth.org/)
 
+## [mapy do gier](https://mapgenie.io/)
+
 ## maps
 
 * [notable-people](https://tjukanovt.github.io/notable-people)
