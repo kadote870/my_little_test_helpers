@@ -38,6 +38,7 @@
 * [make a list of folder contents in a text file](content/how-to/folder-content.md)
 * [intellij](content/how-to/intellij.md)
 * [Creating a GitHub Pages site with Jekyll](content/how-to/jekyll.md)
+* [Zoom](content/how-to/zoom.md)
 
 ## Kody HTTP
 
