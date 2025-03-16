@@ -19,3 +19,5 @@
 <img src="assets/yekyll_05.jpg"> <br>
 
 * [GitHub Pages - Supported themes](https://pages.github.com/themes/)
+
+{{ site.data.element.license }}

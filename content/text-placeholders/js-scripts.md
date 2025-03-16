@@ -47,3 +47,5 @@ Z <https://jira.domain.com/browse/GZA-11620>
 ```text
 <a href="#" onmouseover="alert('To jest alert!')">LINK</a>
 ```
+
+{{ site.data.element.license }}

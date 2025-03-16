@@ -52,3 +52,5 @@ export const diceRoll = {
     },
 }
 ```
+
+{{ site.data.element.license }}

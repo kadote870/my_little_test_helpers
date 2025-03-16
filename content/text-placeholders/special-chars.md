@@ -11,3 +11,5 @@
 ```text
 ęóąśłżźć
 ```
+
+{{ site.data.element.license }}

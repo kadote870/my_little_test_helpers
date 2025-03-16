@@ -15,9 +15,12 @@
 | <span style="color:navy">**navy**</span>           | ```<span style="color:navy"> text </span>```      | <span style="color:navy">**granatowy**</span>           |
 | <span style="color:olive">**olive**</span>         | ```<span style="color:olive"> text </span>```     | <span style="color:olive">**oliwkowy**</span>           |
 | <span style="color:purple">**purple**</span>       | ```<span style="color:purple"> text </span>```    | <span style="color:purple">**fioletowy**</span>         |
+| <span style="color:orange">**orange**</span>       | ```<span style="color:orange"> text </span>```    | <span style="color:orange">**pomarańczowy**</span>      |
 | <span style="color:red">**red**</span>             | ```<span style="color:red"> text </span>```       | <span style="color:red">**czerwony**</span>             |
 | <span style="color:darkred">**darkred**</span>     | ```<span style="color:darkred"> text </span>```   | <span style="color:darkred">**ciemno czerwony**</span>  |
 | <span style="color:silver">**silver**</span>       | ```<span style="color:silver"> text </span>```    | <span style="color:silver">**srebrny**</span>           |
 | <span style="color:teal">**teal**</span>           | ```<span style="color:teal"> text </span>```      | <span style="color:teal">**morski**</span>              |
 | <span style="color:white">**white**</span>         | ```<span style="color:white"> text </span>```     | <span style="color:white">**biały**</span>              |
 | <span style="color:yellow">**yellow**</span>       | ```<span style="color:white"> yellow </span>```   | <span style="color:yellow">**żółty**</span>             |
+
+{{ site.data.element.license }}

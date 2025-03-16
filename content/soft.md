@@ -63,3 +63,4 @@
 * [LaTeX TEXMAKER](https://www.xm1math.net/texmaker/index.html)
 * [Anti-Adblock Killer](https://reek.github.io/anti-adblock-killer/#filterlist)
 
+{{ site.data.element.license }}

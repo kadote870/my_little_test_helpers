@@ -9,3 +9,5 @@ const c2 = Math.sqrt(c)
 
 console.log('c2', c2)
 ```
+
+{{ site.data.element.license }}

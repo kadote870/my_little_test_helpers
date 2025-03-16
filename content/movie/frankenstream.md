@@ -33,3 +33,6 @@
 * [Turbina wiatrowa – tego nie zrecyklingujesz(?)](https://globenergia.pl/turbina-wiatrowa-tego-nie-zrecyklingujesz/)
 
 <img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itxthAhXDALA/v1/2000x1499.webp" width=500 height=auto>
+
+
+{{ site.data.element.license }}

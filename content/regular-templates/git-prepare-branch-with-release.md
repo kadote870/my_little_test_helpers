@@ -11,3 +11,5 @@ git push --set-upstream origin testing/2018-12-27
 
 git merge --abort
 ```
+
+{{ site.data.element.license }}

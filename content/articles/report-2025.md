@@ -73,3 +73,6 @@ _Gdzieniegdzie masowy outsourcing odbił się czkawką, firmy znowu stawiają na
     * Rozwój narzędzi **no-code/low-code i AI**.
 * 2.10. Polska przestaje być tanim krajem
     * Polska stawia na jakość, a nie niskie koszty pracy.
+
+
+{{ site.data.element.license }}

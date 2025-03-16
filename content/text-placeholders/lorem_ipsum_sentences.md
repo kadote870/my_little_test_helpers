@@ -69,3 +69,5 @@ Integer a eros non ipsum dapibus volutpat.
 Fusce in elit a risus tincidunt pulvinar ut sed libero.
 Donec euismod, enim in commodo suscipit, sem massa tempor nisi, a posuere quam dolor vitae libero.
 ```
+
+{{ site.data.element.license }}

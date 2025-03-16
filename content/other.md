@@ -31,3 +31,5 @@
 * [fakeupdate.net](https://fakeupdate.net/)
 * [APOLLO IN REAL TIME. A real-time journey through the Apollo missions.](https://apolloinrealtime.org/)
 * [CERN: http://info.cern.ch - home of the first website](https://info.cern.ch/)
+
+{{ site.data.element.license }}

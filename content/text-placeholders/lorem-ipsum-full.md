@@ -11,3 +11,5 @@ Aenean tempor tempor felis quis finibus. Sed in nisi maximus, porttitor tortor e
 
 Etiam pulvinar in odio sed sagittis. Mauris lobortis, nunc in elementum interdum, ante risus commodo justo, quis varius massa orci eu est. Nunc et rhoncus purus, vel bibendum sem. Cras mattis orci eget erat vulputate maximus. Curabitur quis dolor mauris. Pellentesque pharetra sapien ligula, vitae convallis odio suscipit eget. Aliquam faucibus erat sed erat condimentum, sit amet convallis urna tincidunt. In ut malesuada nibh, et hendrerit lectus. In tristique, tortor faucibus pellentesque vestibulum, sem sem pretium erat, molestie interdum leo tellus ornare ex. Nunc sapien mi, auctor a tortor sit amet, egestas sollicitudin orci. Donec fermentum ut justo nec vulputate. Integer a eros non ipsum dapibus volutpat. Fusce in elit a risus tincidunt pulvinar ut sed libero. Donec euismod, enim in commodo suscipit, sem massa tempor nisi, a posuere quam dolor vitae libero.
 ```
+
+{{ site.data.element.license }}

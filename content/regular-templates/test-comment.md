@@ -26,3 +26,5 @@
 * (x) Reported issues
 **
 ```
+
+{{ site.data.element.license }}

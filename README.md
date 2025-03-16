@@ -116,5 +116,5 @@
 
 ## [other](content/other.md)
 
----
-**COPYLEFT, ALL RIGHTS REVERSED – I stole this code, you can steal it too!**
+
+{{ site.data.element.license }}

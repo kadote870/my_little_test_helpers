@@ -43,3 +43,5 @@ function explodingDice() {
 
 console.log(explodingDice());
 ```
+
+{{ site.data.element.license }}

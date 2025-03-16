@@ -19,3 +19,5 @@ for (let i = 0; i < checkStringsLength.length; i++) {
     console.log(`Index no${checkStringsLength.indexOf(checkStringsLength[i])}; "${checkStringsLength[i]}"; length: ${checkStringsLength[i].length}`)
 }
 ```
+
+{{ site.data.element.license }}

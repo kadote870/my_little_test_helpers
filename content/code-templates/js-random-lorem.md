@@ -23,3 +23,5 @@
 
 console.log(random_lorem_ipsum(20))
 ```
+
+{{ site.data.element.license }}
