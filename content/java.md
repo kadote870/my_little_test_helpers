@@ -39,8 +39,8 @@ public class warhammer {
 
 ## Generowanie geterów i seterów w inteliji
 
-* `alt`+`insert`
-* `control` + `n`
+* win: `alt`+`insert`
+* mac: `control` + `n`
 * Getter and Setter
 
 {{ site.data.element.license }}
