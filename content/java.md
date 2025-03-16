@@ -1,6 +1,7 @@
 # Java
 
 ## Typy Danych
+
 | Data Type | desc                                                    | example                                   |
 |-----------|---------------------------------------------------------|-------------------------------------------|
 | byte      | -128 to 127                                             |                                           |
@@ -14,6 +15,7 @@
 | String    | "String"                                                |                                           |
 
 ## Proste statystyki z warhammera
+
 ```java
 public class warhammer {
     public static void main(String[] args) {
@@ -40,6 +42,5 @@ public class warhammer {
 * `alt`+`insert`
 * `control` + `n`
 * Getter and Setter
-
 
 {{ site.data.element.license }}
