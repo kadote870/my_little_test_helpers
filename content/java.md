@@ -1,3 +1,6 @@
+# Java
+
+## Typy Danych
 | Data Type | desc                                                    | example                                   |
 |-----------|---------------------------------------------------------|-------------------------------------------|
 | byte      | -128 to 127                                             |                                           |
@@ -10,6 +13,7 @@
 | char      | single character/letter or ASCII values                 |                                           |
 | String    | "String"                                                |                                           |
 
+## Proste statystyki z warhammera
 ```java
 public class warhammer {
     public static void main(String[] args) {
@@ -28,3 +32,14 @@ public class warhammer {
     }
 }
 ```
+
+## [commituj jak człowiek a nie małpa ](how-to/intellij.md)
+
+## Generowanie geterów i seterów w inteliji
+
+* `alt`+`insert`
+* `control` + `n`
+* Getter and Setter
+
+
+{{ site.data.element.license }}
