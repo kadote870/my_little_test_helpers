@@ -64,6 +64,7 @@ for (const element of nums) {
 ```java
 public class Tablica {
     public static void main(String[] args) {
+        // 1
         int[] nums = new int[10];
 
         int iterator = 0;
@@ -75,6 +76,19 @@ public class Tablica {
 
         for (int num : nums) {
             System.out.println("test " + num);
+        }
+
+        // 2
+        int[] numbers = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9};
+        String[] names = {"Matthew", "Mark", "Luke", "John"};
+        String testMessage = "hard-coded data ";
+
+
+        for (int num : numbers) {
+            System.out.println(testMessage + num);
+        }
+        for (String name : names) {
+            System.out.println(testMessage + name);
         }
     }
 }
