@@ -50,4 +50,34 @@ public class warhammer {
 * `[/] Obtain processors from project classpath`
 * Stosować powyzsze dla projektów, gdy na dwoch roznych komputerach lombok nie domaga 
 
+## for (Java vs JavaScript)
+
+```js
+const nums = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+for (const element of nums) {
+    console.log("test " + element)
+}
+
+```
+
+```java
+public class Tablica {
+    public static void main(String[] args) {
+        int[] nums = new int[10];
+
+        int iterator = 0;
+
+        for (int num : nums) {
+            nums[iterator] = iterator;
+            iterator++;
+        }
+
+        for (int num : nums) {
+            System.out.println("test " + num);
+        }
+    }
+}
+```
+
 {{ site.data.element.license }}
