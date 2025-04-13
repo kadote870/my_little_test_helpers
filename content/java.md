@@ -69,13 +69,13 @@ public class Tablica {
 
         int iterator = 0;
 
-        for (int num : nums) {
-            nums[iterator] = iterator;
+        for (int element : nums) {
+            element[iterator] = iterator;
             iterator++;
         }
 
-        for (int num : nums) {
-            System.out.println("test " + num);
+        for (int element : nums) {
+            System.out.println("test " + element);
         }
 
         // 2
@@ -84,11 +84,11 @@ public class Tablica {
         String testMessage = "hard-coded data ";
 
 
-        for (int num : numbers) {
-            System.out.println(testMessage + num);
+        for (int element : numbers) {
+            System.out.println(testMessage + element);
         }
-        for (String name : names) {
-            System.out.println(testMessage + name);
+        for (String element : names) {
+            System.out.println(testMessage + element);
         }
     }
 }
