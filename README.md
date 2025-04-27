@@ -1,6 +1,15 @@
 # [my_little_test_helpers](https://kadote870.github.io/my_little_test_helpers/)
 
-## [Java](content/java.md)
+## Java
+
+* [Typy Danych](content/java/typy-danych.md)
+* [Proste statystyki z warhammera](content/java/warhammer-stats.md)
+* [IntelliJ - commituj jak człowiek a nie małpa](content/how-to/intellij.md)
+* [IntelliJ - Generowanie geterów i seterów w IntelliJ](content/java/intellij-getter-setter.md)
+* [IntelliJ - Problemy z lombok](content/java/lombok-problems.md)
+* [Array - List](content/java/array-list.md)
+* [Enum](content/java/enum.md)
+* [Dziedziczenie](content/java/enum.md)
 
 ## Projekty
 
@@ -49,6 +58,7 @@
 
 ## hard-work
 
+* [commituj jak człowiek a nie małpa](content/how-to/intellij.md)
 * json
     * [json-generator.com](https://json-generator.com/)
     * [jsongenerator.io](https://www.jsongenerator.io/)
