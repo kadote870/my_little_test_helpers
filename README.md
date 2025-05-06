@@ -83,6 +83,7 @@
     * [fakenamegenerator.com](https://www.fakenamegenerator.com/)
 * [the-internet.herokuapp.com](https://the-internet.herokuapp.com/)
 * [Generator pytań dowolnego egzaminu ISTQB](https://testerzy.pl/baza-wiedzy/artykuly/generator-pytan-dowolnego-egzaminu-istqb)
+* [whitescreen.online](https://www.whitescreen.online/)
 
 ## and-sacrafice
 
